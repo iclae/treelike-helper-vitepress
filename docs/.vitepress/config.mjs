@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/repo/',
+  base: '/treelike-helper-vitepress/',
   title: "treelike-helper",
   description: "树形嵌套数据处理工具",
   themeConfig: {
